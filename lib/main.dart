@@ -12,7 +12,7 @@ class XylophoneApp extends StatelessWidget {
           child: Column(
             children: <Widget>[
             FlatButton(
-              color: Colors.amber,
+              color: Colors.yellow,
               onPressed: (){
                 final player = AudioCache();
                 player.play('note1.wav');
