@@ -9,20 +9,20 @@ We’re going to make a music app that plays Xylophone sounds. For every Beethov
 
 ## How to install
 
-*First of all install flutter. To get started visit the official website, [www.https://flutter.dev/](https://flutter.dev/docs).
+-First of all install flutter. To get started visit the official website, [www.https://flutter.dev/](https://flutter.dev/docs).
 
-*clone the project to your preferred location.
+-clone the project to your preferred location.
 
-*Install the audioPlayer from the flutter plugin store from the dart lang official site, [https://pub.dev/packages/audioplayers](https://pub.dev/packages/audioplayers)
+-Install the audioPlayer from the flutter plugin store from the dart lang official site, [https://pub.dev/packages/audioplayers](https://pub.dev/packages/audioplayers)
 
-*install it in the dependencies, under cuppertino icons.
+-Install it in the dependencies, under cuppertino icons.
 
-*then run the command:
+-Then run the command:
  >flutter pub get
 
--after the packages are installed you are ready to go :smile:
+-After the packages are installed you are ready to go :smile:
 
--run the app to your preffered emulator or physical device in debug mode using:
+-Run the app to your preffered emulator or physical device in debug mode using:
 > flutter run
 
 ## What you will learn
