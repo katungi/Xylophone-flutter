@@ -1,27 +1,35 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Xylophone 🎹
 
 ## Our Goal
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be conformable using Flutter packages and building repeated widgets.
-
-
-## What you will create
+In this app we try using the audioplayers plugin to make an app that emulates the working of a xylophone. A xylophone is a musical instrument that plays the do-re-mi-fa-so-la-ti-do pattern.
 
 We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+## How to install
+
+-First of all install flutter. To get started visit the official website, [www.https://flutter.dev/](https://flutter.dev/docs).
+-clone the project to your preferred location.
+-Install the audioPlayer from the flutter plugin store from the dart lang official site, [https://pub.dev/packages/audioplayers](https://pub.dev/packages/audioplayers)
+-install it in the dependencies, under cuppertino icons.
+-then run the command:
+ >flutter pub get
+
+-after the packages are installed you are ready to go :smile:
+-run the app to your preffered emulator or physical device in debug mode using:
+> flutter run
 
 ## What you will learn
-
+By going through this code you will learn the following:
 - How to incorporate open source libraries of code into your project using Flutter Packages.
 - How to play sound on both iOS and Android.
 - How to generate repeated user interface Widgets.
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## NOTE
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+-Feel free to contribute to this project.
+-Any changes to the original source code should be well documented when posting the pull request.
+
